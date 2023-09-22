@@ -11,7 +11,15 @@ body {
 h1 {
   text-align: center;
   font-size: 3rem;
+  margin-top: .2rem;
+  margin-bottom: .1rem;
 }
+
+p {
+  margin-top: .1rem;
+}
+
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
