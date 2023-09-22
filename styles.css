@@ -123,7 +123,7 @@ button {
   font-size: 1.5rem;
   font-weight: bolder;
   border: 2px solid greenyellow;
-  border-radius: 30%;
+  border-radius: .5rem;
   width: 60%;
   max-width: 215px;
   height: 4rem;
