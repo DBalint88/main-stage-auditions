@@ -8,7 +8,6 @@ body {
   text-align: center;
   height: 100vw;
   height: -webkit-fill-available;
-  overflow: hidden;
 }
 
 h1 {
@@ -17,9 +16,7 @@ h1 {
   /* border-image: url("images/showbiz-border.png") 12.5% round ; */
   text-align: center;
   font-size: 3rem;
-  margin-top: .2rem;
-  margin-bottom: 0;
-  margin: auto;
+  margin: .2rem .2rem auto auto;
   
 }
 
