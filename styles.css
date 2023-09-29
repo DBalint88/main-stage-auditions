@@ -11,9 +11,7 @@ body {
 }
 
 h1 {
-  border: 16px solid transparent;
   padding: 0px;
-  /* border-image: url("images/showbiz-border.png") 12.5% round ; */
   text-align: center;
   font-size: 3rem;
   margin: .2rem .2rem auto auto;
